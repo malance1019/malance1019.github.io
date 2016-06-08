@@ -360,10 +360,11 @@ blockquote, .stressed {
   margin: 2.5em 0;
   padding: 0 0 0 50px;
   color: #555;
-  border-left: none; }
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
 
 blockquote:before, .stressed-quote:before {
-  content: "\201C";
   display: block;
   font-family: times;
   font-style: normal;
