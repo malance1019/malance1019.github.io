@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-08T09:52:54.000Z</updated>
+  <updated>2016-06-08T10:02:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,69 +15,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[为了部落！]]></title>
-    <link href="http://yoursite.com/2016/06/08/%E4%B8%BA%E4%BA%86%E9%83%A8%E8%90%BD%EF%BC%81/"/>
-    <id>http://yoursite.com/2016/06/08/为了部落！/</id>
-    <published>2016-06-08T09:51:43.000Z</published>
-    <updated>2016-06-08T09:52:54.000Z</updated>
-    <content type="html"><![CDATA[<p>啊哈哈哈哈哈哈哈哈哈哈哈 喊德玛西亚万岁的是傻叼</p>
-]]></content>
+    <title><![CDATA[1]]></title>
+    <link href="http://yoursite.com/2016/06/08/1/"/>
+    <id>http://yoursite.com/2016/06/08/1/</id>
+    <published>2016-06-08T10:02:52.000Z</published>
+    <updated>2016-06-08T10:02:52.000Z</updated>
+    <content type="html"></content>
     <summary type="html">
-    <![CDATA[<p>啊哈哈哈哈哈哈哈哈哈哈哈 喊德玛西亚万岁的是傻叼</p>
-]]>
-    </summary>
-    
-      <category term="随便" scheme="http://yoursite.com/tags/%E9%9A%8F%E4%BE%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test图]]></title>
-    <link href="http://yoursite.com/2016/06/08/test%E5%9B%BE/"/>
-    <id>http://yoursite.com/2016/06/08/test图/</id>
-    <published>2016-06-08T07:46:39.000Z</published>
-    <updated>2016-06-08T08:46:39.000Z</updated>
-    <content type="html"><![CDATA[<p> <img src="https://o8g2pz14r.qnssl.com/%E4%B8%8A%E4%BC%A0.png" alt=""></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p> <img src="https://o8g2pz14r.qnssl.com/%E4%B8%8A%E4%BC%A0.png" alt=""></p>
-]]>
-    </summary>
-    
-      <category term="图图" scheme="http://yoursite.com/tags/%E5%9B%BE%E5%9B%BE/"/>
-    
-      <category term="图图" scheme="http://yoursite.com/categories/%E5%9B%BE%E5%9B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[hahaha]]></title>
-    <link href="http://yoursite.com/2016/06/08/hahaha/"/>
-    <id>http://yoursite.com/2016/06/08/hahaha/</id>
-    <published>2016-06-08T07:21:21.000Z</published>
-    <updated>2016-06-08T07:23:42.000Z</updated>
-    <content type="html"><![CDATA[<p>哈哈哈哈哈哈哈</p>
-<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">好大夫和</span><br><span class="line">纷纷饿饿</span><br><span class="line">份儿分</span><br><span class="line">屙啡啡饿凤飞飞分</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>大风歌</p>
-<p>gegege哥哥哥</p>
-<p>各顾各古个</p>
-</blockquote>
-<a id="more"></a>
-<p>feeggege<br>gegeg</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>哈哈哈哈哈哈哈</p>
-<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">好大夫和</span><br><span class="line">纷纷饿饿</span><br><span class="line">份儿分</span><br><span class="line">屙啡啡饿凤飞飞分</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>大风歌</p>
-<p>gegege哥哥哥</p>
-<p>各顾各古个</p>
-</blockquote>]]>
     
     </summary>
-    
-      <category term="随便" scheme="http://yoursite.com/tags/%E9%9A%8F%E4%BE%BF/"/>
     
   </entry>
   
